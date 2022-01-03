@@ -10,4 +10,5 @@
 8. DATABASE_URL=f"postgresql://{username}:{password}@localhost:5432/{database name}?schema=public"으로 변경
 9. npx prisma migrate dev (package.json script에 이 명령어 저장)
 
-끝
+AWS
+1. npm i aws-sdk
